@@ -1,0 +1,40 @@
+ /* Style the buttons that are used to open and close the accordion panel */
+ .accordion {
+    background-color: rgb(209, 208, 208);
+    color: #444;
+    cursor: pointer;
+    padding: 20px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+      }
+      /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .table {
+      width: 60%;
+    }
+    
+    th {
+      height: 30px;
+    }
+    td {
+      height:40px;
+    }
+    
+    .table {
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .tableText{
+      font-family:Arial, Helvetica, sans-serif;
+      font-weight: 600;
+      font-size: medium;
+    }
+    .accordion-header{
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 600;
+      font-size: small;
+    }
+.tableTest{
+padding-left: 20px;
+}
